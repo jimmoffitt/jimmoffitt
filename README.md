@@ -14,7 +14,7 @@ For eight years I was on the Twitter developer relations team, and as such, most
 
 - Customer tools for working with Twitter data. 
   - https://github.com/jimmoffitt/json2csv - Many, many customers were not equipped to work with Tweet JSON files and wanted to work instead with simple CSV files (think of a social studies reseacher who wants to due spreadsheet-hosted analysis. 
-  - https://github.com/jimmoffitt/bounding-boxes - Twitter API endpoints that enable searched based on user-shared location data require areas of interest defined by matrices of 'bounding boxes' rectangles with edges no longer than 25 miles. This tool is used to take a 'study area' of interest, however large, and output a set of valid bounding boxes.
+  - https://github.com/jimmoffitt/bounding-boxes - Twitter API endpoints that enable searches based on user-shared location data require areas of interest defined by matrices of 'bounding boxes' rectangles with edges no longer than 25 miles. This tool is used to take a 'study area' of interest, however large, and output a set of valid bounding boxes.
   - https://github.com/jimmoffitt/rules-migrator - Twitter API search and filtered stream customers build queries to match on Tweets of interest. Customer can have up to 250,000 queries per real-time stream, and can have even more that are used with search endpoints. This tool was first developed in 2016 to help customers migrate to a version of enterprise endpoints. Before I left Twitter, this tool was updated to migrate queries and filters to Twitter API v2 (on a Twitter internal repository).
 
 During the 13 years before Gnip/Twitter, I developed flood-warning software, so you may notice a certain use case dominates. 
