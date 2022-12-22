@@ -5,7 +5,7 @@ So, here is a collection of repositories written mainly in Python and Ruby, with
 For eight years I was on the Twitter developer relations team, and as such, most of these repositories are focused on collecting, analyzing, and displaying Twitter data. These repositories can be broken up into three types:
 
 - 'Backend' scripts that make API requests, receive the data, and typically store that data somewhere (or if a simple example, just send it off into the ether). 
-  - https://github.com/twitterdev/search-tweets-python/tree/v2 - Since around 2018, I have maintained and enhanced this widely used Python client of the Twitter API search endpoints. In late 2021, I migrated the codebase from API 1.1 Enterprise to API 2.0, and added addtional features. 
+  - https://github.com/twitterdev/search-tweets-python/tree/v2 - Since around 2018, I have maintained and enhanced this widely used Python client of the Twitter API search endpoints, including a 2021 migration from API 1.1 Enterprise to API 2.0.
   - https://github.com/twitterdev/search-tweets-ruby - Sole developer of this Ruby client of the Twitter API search endpoints (all flavors expect 'standard 1.1'). 
 
 - Web applications in the form of standalone websites or chatbot applications hosted on Twitter. 
