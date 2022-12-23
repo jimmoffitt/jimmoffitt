@@ -1,4 +1,4 @@
-### Hi there and welcome 👋
+### 👋 Hi there and welcome 👋
 
 So, here is a collection of repositories written mainly in Python and Ruby, with a fair amount of JavaScript mixed in. 
 
