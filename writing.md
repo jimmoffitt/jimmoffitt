@@ -1,6 +1,6 @@
 # The joy of technical writing (really!) 
 
-Writing is probably my preferred way of communication about technical things. I am a visual learner, and words and pictures help me more quickly understand techncial topics. Over my career, I have spent a lot of time writing, including my decade at Gnip/Twitter. There was always a new product/endpoint to document, and a growing variety of developers to write for. My Twitter documentation roots go back to Gnip and being a primary author of all their 'enterprise' products. That includes the real-time streaming and historical search endpoints that became the foundation of Twitter API 2.0 versions. 
+Writing is probably my preferred way of communicating about technical things. I am a visual learner, and words and pictures help me more quickly understand technical topics. During my career, I have spent a lot of time writing, including my decade at Gnip/Twitter, where there was always a new product/endpoint to document, and a growing variety of developers to write for. My Twitter documentation roots go back to Gnip and being a primary author of documention for a set of 'enterprise' products. That includes the real-time streaming and historical search endpoints that became the foundation of Twitter API 2.0 versions. 
 
 Below are some Twitter highlights, but there are also many examples from earlier in my career:
 
@@ -28,13 +28,17 @@ https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction
 https://developer.twitter.com/en/docs/twitter-api/enterprise/engagement-api/overview
 
 ## Developer 'getting started' guides
+https://developer.twitter.com/en/docs/twitter-api/direct-messages/lookup/quick-start
 
 ## API References
+https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference
+
 
 ## Best practices 
 
 https://developer.twitter.com/en/docs/twitter-api/enterprise/historical-powertrack-api/guides/hpt-timeline
 https://developer.twitter.com/en/docs/twitter-api/enterprise/search-api/guides/changelog
+https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/paginate
 
 ## Tutorials
 
