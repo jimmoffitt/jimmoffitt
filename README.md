@@ -19,14 +19,9 @@ For eight years I was on the Twitter developer relations team, and as such, most
 
 During the 13 years before Gnip/Twitter, I developed flood-warning software, so you may notice a certain use case dominates. 
 
-And finally, I am searching for the next chapter in my career... I'm excited to see where I land ;) 
-
-🔭 I’m currently working on getting a Windows 11 laptop set up for development. I've been working with the MacOS for a decade now, and I know it will be interesting to return to Windows. With terminal emulators, virtual machines, and a current IDE, I am hoping I'll be on the OS-agnostic road soon. 
-
 📫 How to reach me: 
 * https://twitter.com/snowman 
-* I am checking out Mastodon at the moment. And have made an initial API request ;) 
-* Also @moffitt on Post. 
+* https://www.linkedin.com/in/jimmoffitt/
 
 
 <!--
