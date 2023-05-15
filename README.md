@@ -2,6 +2,8 @@
 
 So, here is a collection of repositories written mainly in Python and Ruby, with a fair amount of JavaScript mixed in. 
 
+I recently joined Tinybird as a developer advocate and you'll see more Tinybird-related projects, demos for showing the kinds of APIs you can build on that platform. I'm sure the first few will include some sort of weather-related theme. 
+
 For eight years I was on the Twitter developer relations team, and as such, most of these repositories are focused on collecting, analyzing, and displaying Twitter data. These repositories can be broken up into three types:
 
 - 'Backend' scripts that make API requests, receive the data, and typically store that data somewhere (or if a simple example, just send it off into the ether). 
