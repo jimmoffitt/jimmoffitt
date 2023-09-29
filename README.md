@@ -7,9 +7,9 @@ So, here is a collection of repositories written mainly in Python and Ruby, with
 I recently joined [Tinybird](https://www.tinybird.co/) as a developer advocate and you'll see more Tinybird-related projects, demos for showing the kinds of APIs you can build on that platform. I'm sure the first few will include some sort of weather-related theme. 
 
 *Update*: Here are some Tinybird projects:
-  * https://github.com/jimmoffitt/weather-api
-  * https://github.com/jimmoffitt/get_and_send_weather_data
-  * https://github.com/tinybirdco/pubsub-website-events-poc
+  * https://github.com/jimmoffitt/weather-api - A set of weather data API endpoints designed and hosted on Tinybird. 
+  * https://github.com/jimmoffitt/get_and_send_weather_data - A Python script that makes requests to the OpenWeatherMap API and streams the data to a Tinybird-hosted project.
+  * https://github.com/tinybirdco/pubsub-website-events-poc - Includes a Python script for publishing to a Google Pub/Sub stream, Tinybird resources for ingesting that stream and API Endpoints for publishing the data, and a Grafana dashboard JSON Model. 
   
 For eight years I was on the Twitter developer relations team, and as such, most of these repositories are focused on collecting, analyzing, and displaying Twitter data. These repositories can be broken up into three types:
 
