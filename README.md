@@ -2,14 +2,22 @@
 
 So, here is a collection of repositories written mainly in Python and Ruby, with a fair amount of JavaScript mixed in. 
 
-- 💬 Ask me about: Building APIs, real-time data and event-driven architecture, early-warning systems, and working with weather data.
-  
-I recently joined [Tinybird](https://www.tinybird.co/) as a developer advocate and you'll see more Tinybird-related projects, demos for showing the kinds of APIs you can build on that platform. I'm sure the first few will include some sort of weather-related theme. 
+- 💬 Ask me about: Designing and building APIs, real-time data streaming, event-driven architectures, early-warning systems, and working with weather data.
+
+## Some background  
+I joined [Tinybird](https://www.tinybird.co/) about a year ago as a developer advocate so you will see Tinybird-related projects. This will include demos for showing the kinds of APIs you can build on that platform. I'm sure the first few will include some sort of weather-related theme. 
 
 *Update*: Here are some Tinybird projects:
-  * https://github.com/jimmoffitt/weather-api - A set of weather data API endpoints designed and hosted on Tinybird. 
-  * https://github.com/jimmoffitt/get_and_send_weather_data - A Python script that makes requests to the OpenWeatherMap API and streams the data to a Tinybird-hosted project.
-  * https://github.com/tinybirdco/pubsub-website-events-poc - Includes a Python script for publishing to a Google Pub/Sub stream, Tinybird resources for ingesting that stream and API Endpoints for publishing the data, and a Grafana dashboard JSON Model. 
+  * [A collection of unsupervised methods for detecting anomalies in real-time data](https://github.com/tinybirdco/use-case-real-time-anomaly-detection). These recipes are written in SQL and are applied to streaming data in real-time. With this project, five types of anomalies can be detected:
+    * **Out-of-range**: Identifying data points that fall outside a specified valid range.
+    * **Rate-of-change**: Detecting abrupt changes or spikes in the rate of change of data.
+    * **Timeout**: Flagging data points that cease to arrive within a predefined time interval.
+    * **Interquartile Range (IQR)**: Using statistical methods to identify outliers based on the interquartile range.
+    * **Z-score**: Applying standard deviation-based analysis to identify anomalies in data distribution.
+* Designed a [hands-on workshop](https://github.com/tinybirdco/zero-to-tinybird) for learning to build API endpoints. This project includes an example set of Tinybird Data Source and Pipe definitions.
+* [A set of weather data API endpoints designed and hosted on Tinybird](https://github.com/jimmoffitt/weather-api). 
+* [A Python script that makes requests to the OpenWeatherMap API and streams the data to a Tinybird-hosted project](https://github.com/jimmoffitt/get_and_send_weather_data). The Anomaly Detection project includes another example data generator. 
+  * Includes a [Python script for publishing to a Google Pub/Sub stream](https://github.com/tinybirdco/pubsub-website-events-poc), Tinybird resources for ingesting that stream and API Endpoints for publishing the data, and a Grafana dashboard JSON Model. 
   
 For eight years I was on the Twitter developer relations team, and as such, most of these repositories are focused on collecting, analyzing, and displaying Twitter data. These repositories can be broken up into three types:
 
@@ -25,20 +33,21 @@ For eight years I was on the Twitter developer relations team, and as such, most
   - [Bounding boxes](https://github.com/jimmoffitt/bounding-boxes) - Many of the most popular Twitter API endpoints enable searching for Tweets of interest by matching on locations shared by users. The Twitter query language supports a 'bounding box' operator that matches on rectangular areas with sides no larger than 25 miles. This tool is used to take a 'study area' of interest, however large, and output a set of valid queries with bounding box definitions.
   - [Query migrator](https://github.com/jimmoffitt/rules-migrator) - Twitter API search and filtered stream customers build queries to match on Tweets of interest. Customer can have up to 250,000 queries per real-time stream, and can have even more that are used with search endpoints. This tool was first developed in 2016 to help customers migrate enterprise versions (the "Gnip 2.0" migration). Before I left Twitter, this tool was updated to migrate queries and filters to Twitter API v2 (on a Twitter internal repository).
 
-During the 13 years before Gnip/Twitter, I developed flood-warning software, so you may notice a certain use case dominates. 
+During the 13 years before Gnip/Twitter, I developed flood-warning software, so you may notice that a certain use case drives most of these efforts...  
+
+💬 Ask me about event-driven architectures, designing and building APIs, real-time data streaming, flood-warning systems...
 
 📫 How to reach me: 
 * https://www.linkedin.com/in/jimmoffitt/
 * @snowman.bsky.social
 * https://twitter.com/snowman
 
-
 <!--
 **jimmoffitt/jimmoffitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
