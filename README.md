@@ -35,8 +35,6 @@ For eight years I was on the Twitter developer relations team, and as such, most
 
 During the 13 years before Gnip/Twitter, I developed flood-warning software, so you may notice that a certain use case drives most of these efforts...  
 
-💬 Ask me about event-driven architectures, designing and building APIs, real-time data streaming, flood-warning systems...
-
 📫 How to reach me: 
 * https://www.linkedin.com/in/jimmoffitt/
 * @snowman.bsky.social
