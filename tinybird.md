@@ -1,6 +1,6 @@
 # Tinybird
 
-Here is a collection of content I developed while at Tinybird: 
+Here is a collection of content I developed while at Tinybird. I learned a ton there. 
 
 ## Blog posts 
 
@@ -32,11 +32,11 @@ During my Tinybird travels, I also had a great introduction to change data captu
 ## Workshops
 
 * Kicked off my workshop series with a `Zero-to-Tinybird` set of content:
-  * [From Kafka to Analytics - April 2024](https://www.tinybird.co/docs/live/from-kafka-to-analytics-april-2024)
-  * [From Kafka to analytics - March 2024](https://www.tinybird.co/docs/live/free-virtual-training-from-kafka-to-analytics-mar-2024)
-* [Master Materialized Views in Tinybird - September 2024](https://www.tinybird.co/docs/live/master-materialized-views-sep-2024)
-* [Real-time MongoDB CDC with Confluent and Tinybird - September 2024](https://www.tinybird.co/docs/live/mongodb-cdc-confluent-tinybird-sep-2024)
-* [Build performant analytics dashboards over Postgres data - August 2024](https://www.tinybird.co/docs/live/postgres-analytics-dashboards-august-20-2024)
-* [Building Customer-Facing Dashboards for SaaS Products - June 2024](https://www.tinybird.co/docs/live/build-dashboards-for-saas-june-2024)
-* [Build Real-Time Leaderboards - June 2024](https://www.tinybird.co/docs/live/build-real-time-leaderboards-june-2024)
-* [Building Real-Time Anomaly Detection Systems - May 2024](https://www.tinybird.co/docs/live/build-anomaly-detection-may-2024)
+  * From Kafka to Analytics - April 2024
+  * From Kafka to analytics - March 2024
+* Master Materialized Views in Tinybird - September 2024
+* Real-time MongoDB CDC with Confluent and Tinybird - September 2024
+* Build performant analytics dashboards over Postgres data - August 2024
+* Building Customer-Facing Dashboards for SaaS Products - June 2024
+* Build Real-Time Leaderboards - June 2024
+* Building Real-Time Anomaly Detection Systems - May 2024
