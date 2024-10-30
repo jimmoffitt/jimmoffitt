@@ -2,10 +2,13 @@
 
 So, here is a collection of repositories written mainly in Python and Ruby, with a fair amount of JavaScript mixed in. 
 
-- 💬 Ask me about: Designing and building APIs, real-time data streaming, event-driven architectures, early-warning systems, and working with weather data.
+- 💬 Ask me about designing and building APIs and helping partners and developers use those APIs. Areas of focus: real-time data streaming, event-driven architectures, early-warning systems, and working with social and weather data.
 
 ## Some background  
-I joined [Tinybird](https://www.tinybird.co/) in April 2023 as a developer advocate so you will see a growing set of Tinybird-related projects. This will include demos for showing the kinds of APIs you can build on that platform. I'm sure the first few will include some sort of weather-related theme. 
+
+I recently left a Spanish start-up named Tinybird (a fabulous product and team), and am now looking for my next career chapter.  The last four chapters have been amazing. 
+
+I joined [Tinybird](https://www.tinybird.co/) in April 2023 as a developer advocate so you will see a set of Tinybird-related projects here (others on the Tinybird account). 
 
 *Update*: Here are some Tinybird projects:
   * [A collection of unsupervised methods for detecting anomalies in real-time data](https://github.com/tinybirdco/use-case-real-time-anomaly-detection). These recipes are written in SQL and are applied to streaming data in real-time. With this project, five types of anomalies can be detected:
