@@ -41,7 +41,7 @@ During the 13 years before Gnip/Twitter, I developed flood-warning software, so 
 📫 How to reach me: 
 * https://www.linkedin.com/in/jimmoffitt/
 * @snowman.bsky.social
-* https://twitter.com/snowman
+
 
 <!--
 **jimmoffitt/jimmoffitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
