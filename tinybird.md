@@ -40,3 +40,18 @@ During my Tinybird travels, I also had a great introduction to change data captu
 * Building Customer-Facing Dashboards for SaaS Products - June 2024
 * Build Real-Time Leaderboards - June 2024
 * Building Real-Time Anomaly Detection Systems - May 2024
+I joined [Tinybird](https://www.tinybird.co/) in April 2023 as a developer advocate so you will see a set of Tinybird-related projects here (others on the Tinybird account). 
+
+## Projects
+  * [A collection of unsupervised methods for detecting anomalies in real-time data](https://github.com/tinybirdco/use-case-real-time-anomaly-detection). These recipes are written in SQL and are applied to streaming data in real-time. With this project, five types of anomalies can be detected:
+    * **Out-of-range**: Identifying data points that fall outside a specified valid range.
+    * **Rate-of-change**: Detecting abrupt changes or spikes in the rate of change of data.
+    * **Timeout**: Flagging data points that cease to arrive within a predefined time interval.
+    * **Interquartile Range (IQR)**: Using statistical methods to identify outliers based on the interquartile range.
+    * **Z-score**: Applying standard deviation-based analysis to identify anomalies in data distribution.
+* Designed a [hands-on workshop](https://github.com/tinybirdco/zero-to-tinybird) for learning to build API endpoints. This project includes an example set of Tinybird Data Source and Pipe definitions.
+* [A set of weather data API endpoints designed and hosted on Tinybird](https://github.com/jimmoffitt/weather-api). 
+* [A Python script that makes requests to the OpenWeatherMap API and streams the data to a Tinybird-hosted project](https://github.com/jimmoffitt/get_and_send_weather_data). The Anomaly Detection project includes another example data generator. 
+  * Includes a [Python script for publishing to a Google Pub/Sub stream](https://github.com/tinybirdco/pubsub-website-events-poc), Tinybird resources for ingesting that stream and API Endpoints for publishing the data, and a Grafana dashboard JSON Model. 
+
+
