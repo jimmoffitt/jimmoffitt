@@ -16,7 +16,7 @@ For more than a decade before joining Gnip, I developed flood-warning software a
 
 📫 How to reach me: 
 * https://www.linkedin.com/in/jimmoffitt/
-* @snowman.bsky.social
+* [@snowman.bsky.social](https://bsky.app/profile/snowman.bsky.social)
 
 <!--
 **jimmoffitt/jimmoffitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
