@@ -8,11 +8,11 @@ So, here is a collection of repositories written mainly in Python and Ruby, with
 
 I recently left a Spanish start-up named [Tinybird]((https://www.tinybird.co/) (a fabulous product and team, now HQ'ed in NYC), and am now looking for my next career chapter.  The last four chapters have been amazing. 
 
-I joined Tinybird in April 2023 as a developer advocate so you will see a set of Tinybird-related projects here (others on the Tinybird account). [Here](https://github.com/jimmoffitt/jimmoffitt/blob/master/tinybird.md) is a summary of the blog posts, workshops, and other projects I focused on while there. Some of my favorites include building an anomaly detection system, designing a Weather API, and developing a workshop to show data engineers how to build APIs on top of real-time Kafka streams. 
+I joined Tinybird in April 2023 as a developer advocate so you will see a set of Tinybird-related projects here (others on the Tinybird account). [HERE](https://github.com/jimmoffitt/jimmoffitt/blob/master/tinybird.md) is a summary of the blog posts, workshops, and other projects I focused on while there. Some of my favorites include building an anomaly detection system, designing a Weather API, and developing a workshop to show data engineers how to build APIs on top of real-time Kafka streams. 
   
-For eight years I was on the Twitter developer relations team, and as such, many of these repositories are focused on collecting, analyzing, and displaying Twitter data. See [HERE](https://github.com/jimmoffitt/jimmoffitt/blob/master/twitter.md) for a directory of repositories and example projects. See [HERE]() for more details on projects from my years at Twitter. 
+For eight years I was on the Twitter developer relations team, and as such, many of these repositories are focused on collecting, analyzing, and displaying Twitter data. See [HERE](https://github.com/jimmoffitt/jimmoffitt/blob/master/twitter.md) for a directory of repositories and example projects. See [HERE](twitter.md) for more details on projects from my years at Twitter. It's fair to say, that future projects will focus on how the concepts expressed here, especially in the climate warning system domain, can be applied to social networks such as Bluesky and Mastodon. 
   
-For more than a decade before joining Gnip, I developed flood-warning software, so you may notice that a certain use case drives most of these efforts...  
+For more than a decade before joining Gnip, I developed flood-warning software at [OneRain](https://onerain.com/), so you may notice that a certain use case drives most of these efforts...  
 
 📫 How to reach me: 
 * https://www.linkedin.com/in/jimmoffitt/
