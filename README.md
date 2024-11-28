@@ -1,6 +1,6 @@
-### 👋 Hi there and welcome 👋
+### 👋 Hello and welcome 👋
 
-So, here is a collection of repositories written mainly in Python and Ruby, with a fair amount of JavaScript mixed in. If GitHub had been around when I developed flood-warning systems in Java and Visual Basic, there'd be some examples in those languages ;)   
+Here you will find a collection of repositories written mainly in Python and Ruby, with a fair amount of JavaScript mixed in. (If GitHub had been around when I developed flood-warning systems in Java and Visual Basic, there'd be some examples in those languages ;)   
 
 - 💬 Ask me about designing and building APIs and helping partners and developers use those APIs. Areas of focus: real-time data streaming, event-driven architectures, early-warning systems, and working with social and weather data.
 
