@@ -1,4 +1,6 @@
-For eight years I was on the Twitter developer relations team, and as such, most of these repositories are focused on collecting, analyzing, and displaying Twitter data. These repositories can be broken up into three types:
+For eight years I was on the Twitter developer relations team, and as such, most of these repositories are focused on collecting, analyzing, and displaying Twitter data. Many of the patterns embedded in these projects could be applied to other social media data. 
+
+These repositories can be broken up into three types:
 
 - 'Backend' scripts that make API requests, receive the data, and typically store that data somewhere (or if a simple example, just send it off into the ether). 
   - https://github.com/twitterdev/search-tweets-python/tree/v2 - Between 2018-2022, I maintained and enhanced this widely used Python client of the Twitter API search endpoints, including a 2021 migration from API 1.1 Enterprise to API 2.0. There is also [this Ruby implementation](https://github.com/twitterdev/search-tweets-ruby) that I developed and updated over the years. It supports all v2 and enterprise Twitter search endpoints (and not 'standard 1.1'). 
