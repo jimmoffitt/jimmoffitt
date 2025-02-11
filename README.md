@@ -6,7 +6,7 @@ Here you will find a collection of repositories written mainly in Python and Rub
 
 ## Some background  
 
-I recently left a Spanish start-up named [Tinybird]((https://www.tinybird.co/) (a fabulous product and team, now HQ'ed in NYC), and am now looking for my next career chapter.  The last four chapters have been amazing. 
+I recently left a Spanish start-up named [Tinybird](https://www.tinybird.co/) (a fabulous product and team, now HQ'ed in NYC), and am now looking for my next career chapter.  The last four chapters have been amazing. 
 
 I joined Tinybird in April 2023 as a developer advocate so you will see a set of Tinybird-related projects here (others on the Tinybird account). [HERE](https://github.com/jimmoffitt/jimmoffitt/blob/master/tinybird.md) is a summary of the blog posts, workshops, and other projects I focused on while there. Some of my favorites include building an anomaly detection system, designing a Weather API, and developing a workshop to show data engineers how to build APIs on top of real-time Kafka streams. 
   
