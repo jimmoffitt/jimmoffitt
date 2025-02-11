@@ -32,15 +32,14 @@ During my Tinybird travels, I also had a great introduction to change data captu
 ## Workshops
 
 * Kicked off my workshop series with a `Zero-to-Tinybird` set of content:
-  * From Kafka to Analytics - April 2024
-  * From Kafka to analytics - March 2024
+  * From Kafka to Analytics - April and March 2024
 * Master Materialized Views in Tinybird - September 2024
 * Real-time MongoDB CDC with Confluent and Tinybird - September 2024
 * Build performant analytics dashboards over Postgres data - August 2024
 * Building Customer-Facing Dashboards for SaaS Products - June 2024
 * Build Real-Time Leaderboards - June 2024
 * Building Real-Time Anomaly Detection Systems - May 2024
-I joined [Tinybird](https://www.tinybird.co/) in April 2023 as a developer advocate so you will see a set of Tinybird-related projects here (others on the Tinybird account). 
+
 
 ## Projects
   * [A collection of unsupervised methods for detecting anomalies in real-time data](https://github.com/tinybirdco/use-case-real-time-anomaly-detection). These recipes are written in SQL and are applied to streaming data in real-time. With this project, five types of anomalies can be detected:
